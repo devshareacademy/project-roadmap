@@ -9,12 +9,12 @@ assignees: scottwestover
 
 Tracking ticket for video content creation.
 
-* [] Video Recorded
-* [] Video Edited
-* [] Video Uploaded
-* [] Video Description Created and Added To Repo
-* [] Video Thumbnail Created
-* [] Video Post shared to blog
-* [] Video Scheduled
+* [ ] Video Recorded
+* [ ] Video Edited
+* [ ] Video Uploaded
+* [ ] Video Description Created and Added To Repo
+* [ ] Video Thumbnail Created
+* [ ] Video Post shared to blog
+* [ ] Video Scheduled
 
 Add link to video once ready:
